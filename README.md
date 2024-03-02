@@ -7,68 +7,51 @@
 - 🎓 Big Data and Analytics Program **@S.P. Jain School of Global Management**
 - 🎓 BEIT  **@Mumbai University** 
 
-## Skill Set :muscle:
+## 👨🏻‍💻 Skill Set 
 
 These are some of the major technologies that I use or have worked on in the past:
+
 
 **Programming Languages**
 
 
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
-|--|--|--|--|--|
+
+|<img title="Python" alt="Python" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/c72a1854-a97f-40df-bdd1-b1a28e8bc5e9" />|<img alt="R" title="R" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/35c5f8d0-6eea-4b42-9709-1b9ab7d79631">
+|--|--|
 
 **Libraries and Frameworks**
 
-<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tensorflow/tensorflow.png">|<img title="Keras" alt="Keras" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/240px-Keras_logo.svg.png">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/scikit-learn/scikit-learn.png">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/opencv/opencv.png">|<img title="Docker" alt="Docker" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/docker/docker.png">
-|--|--|--|--|--|
-<img title="Flask" alt="Flask" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/flask/flask.png">|<img title="Django" alt="Django" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/django/django.png">|<img title="jQuery" alt="jQuery" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jquery/jquery.png">|<img title="GrahpQL" alt="GraphQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/graphql/graphql.png">|<img title="Selenium" alt="Selenium" width="40px" src="https://img.icons8.com/color/48/000000/selenium-test-automation.png">
+
+
+
+<img title="TensorFlow" alt="TensorFlow" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/d993a119-f4e9-4a22-80ec-cea25da6e81d">|<img title="Keras" alt="Keras" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/e4fa684f-d483-4ae3-9031-ddfd439ead14">|<img title="Scikit-Learn" alt="Scikit Learn" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/b00e107c-cb15-4127-8a97-fa09dfc0126b">|<img title="OpenCV" alt="OpenCV" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/ed41a2c0-0fd3-4de4-8165-4d9d99511174">|<img title="Docker" alt="Docker" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/23c30316-1d99-4e63-b8ee-007f1b32a8bf">|<img title="Flask" alt="Flask" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/da5d2ef8-c820-4355-b876-db8e9f545e8a">|<img title="Selenium" alt="Selenium" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/1d403cc2-75bd-4b2a-ae75-6e860a02fa15">
+|--|--|--|--|--|--|--|
 
 **Infrastructure**
 
-<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Heroku" alt="Heroku" width="40px" src="https://img.icons8.com/color/48/000000/heroku.png">
+<img title="AWS" alt="AWS" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/aws/aws.png">|<img title="Kubernetes" alt="Kubernetes" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/kubernetes/kubernetes.png">|<img title="Azure ML Studio" alt="Azure" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/5b1b49a0-c3c4-4c39-953e-50977650bd13">
 |--|--|--|
+
 
 **Databases**
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">|<img title="ElasticSearch" alt="ElasticSearch" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/elasticsearch/elasticsearch.png"> <br>
-|--|--|--|
+<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png">|<img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+|--|--|
 
 **Tools**
 
-<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="ZSH" alt="ZSH" width="40px" src="https://s3.amazonaws.com/ohmyzsh/oh-my-zsh-logo.png">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
+
+
+<img title="Ubuntu" alt="Ubuntu" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/ubuntu/ubuntu.png">|<img title="Windows" alt="Windows" width="40px" src="https://github.com/vishawjeetd/vishawjeetd/assets/17511116/920caf92-47ac-4b56-add3-0fa7906b6643">|<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png">|<img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png">|<img title="Jupyter Notebook" alt="Jupyter" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/jupyter-notebook/jupyter-notebook.png">
 |--|--|--|--|--|
 <br>
 
 ## ⬆ What I'm up to
-- 🔨 Building highly gamified upskilling programs, to help working professionals upskill in Machine Learning.
-- 🔨 I'm currently working on Marketing, Business Strategy, NLP
-- 🔭 Fun Fact: Working on a podcast - ["Tech My Breath Away"](https://123ofai.com/techmybreathaway)
+- 🔨 I'm currently working on Supply Chain related projects like Demand Sensing, Inventory Optimization
+- 🔨 Self-Learning and doing POC on Deep Learning and NLP use cases for an FMCG company
 
-
-
-
-## What Drives Me 🎯
-```yaml
-It's not the years in your life that counts. It is the life in your years!
-```
-- I love being a part of a cause much larger than myself.
-- I derive a tremendous amount of satisfaction by adding value to others.
-- Leaving an ever-lasting legacy!
-
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="Side Image" align="right" width="400">
-
-
-
-
-
-
-
-## 👨🏻‍💻 Technologies
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 
 ## 📫 How to Reach Me:
-[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Abbhinav on LinkedIn" title="Follow Abbhinav on LinkedIn"/>](https://www.linkedin.com/in/abbhinavvenkat) &nbsp; <a href="mailto:abbhinav@123ofai.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
+[<img height="40" src="https://img.icons8.com/color/48/000000/linkedin.png" height="40em" align="center" alt="Follow Vishawjeet on LinkedIn" title="Follow Vishawjeet on LinkedIn"/>](https://www.linkedin.com/in/vishawjeet-deshmukh/) &nbsp; <a href="mailto:vishawjeetd@gmail.com"> <img height="40" src="https://img.icons8.com/fluent/48/000000/gmail.png" align="center" />
   
