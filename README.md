@@ -13,9 +13,9 @@ These are some of the major technologies that I use or have worked on in the pas
 
 **Programming Languages**
 
-![image](https://github.com/vishawjeetd/vishawjeetd/assets/17511116/df0364b4-4b64-41af-a6ae-4ec19cfae474)
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/r.png">|
+
+<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />|<img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png">|<img alt="Typescript" title="Typescript" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/typescript/typescript.png">|<img title="Go" alt="Go" width="40px" src="https://raw.githubusercontent.com/github/explore/main/topics/go/go.png">|<img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
 |--|--|--|--|--|
 
 **Libraries and Frameworks**
