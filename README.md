@@ -50,6 +50,7 @@ These are some of the major technologies that I use or have worked on in the pas
 ## ⬆ What I'm up to
 - 🔨 I'm currently working on Supply Chain related projects like Demand Sensing, Inventory Optimization
 - 🔨 Self-Learning and doing POC on Deep Learning and NLP use cases for an FMCG company
+-  🏗 Building an exhaustive list for [Data Science Learning](https://whimsical.com/data-science-self-learn-topics-Fpwo3VMjNMVvypHM9CsmCF)
 
 
 ## 📫 How to Reach Me:
